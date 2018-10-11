@@ -1,4 +1,4 @@
-> 代码仅仅是调用部分的主要代码( 换言之，开发者拉取该仓库代码后是无法正常启动的，因为缺少很多类，这里仅仅是调取识别API的核心代码，请开发者谅解! )，若需要其他内容请参考[阿里云第三方OCR]("https://market.aliyun.com/products/57124001/cmapi029964.html?spm=5176.730005.productlist.d_cmapi029964.16463524N3bPAa")和[腾讯云OCR]("https://cloud.tencent.com/document/product/866/17600")的API,若有疑问可联系我，邮箱：13718913664@163.com。
+> 代码仅仅是调用部分的主要代码( 换言之，开发者拉取该仓库代码后是无法正常启动的，因为缺少很多类，这里仅仅是调取识别API的核心代码，请开发者谅解! )，若需要其他内容请参考[阿里云第三方OCR](https://market.aliyun.com/products/57124001/cmapi029964.html?spm=5176.730005.productlist.d_cmapi029964.16463524N3bPAa)和[腾讯云OCR](https://cloud.tencent.com/document/product/866/17600)的API,若有疑问可联系我，邮箱：13718913664@163.com。
 
 &nbsp;&nbsp;&nbsp;&nbsp;本次OCR技术方案的选型有两个，一种为阿里云生态服务中的OCR识别API（后文指代为：A），该API为北京艾特阿尔法科技公司提供AI识别服务【此为第三方服务提供商，并非阿里官方服务】；第二种为腾讯云OCR文字识别服务（后文指代为：B），该服务为腾讯提供的官方服务。
 ### 调用方式
